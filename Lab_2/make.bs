@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gcc lab2bF.c InputGenEdu.o -o lab2bF.bin
+
+gcc lab2bK.c -o lab2bK.bin
